@@ -1,0 +1,13 @@
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\bin\Debug\veritabanlikutuphaneprojem.exe.config
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\bin\Debug\veritabanlikutuphaneprojem.exe
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\bin\Debug\veritabanlikutuphaneprojem.pdb
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.csprojAssemblyReference.cache
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.Form1.resources
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.Properties.Resources.resources
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.csproj.GenerateResource.cache
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.csproj.CoreCompileInputs.cache
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.exe
+C:\Users\ats\Desktop\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.pdb
+C:\Users\ats\Desktop\PROJELERİM\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\bin\Debug\veritabanlikutuphaneprojem.exe.config
+C:\Users\ats\Desktop\PROJELERİM\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.exe
+C:\Users\ats\Desktop\PROJELERİM\veritabanlikutuphaneprojem\veritabanlikutuphaneprojem\obj\Debug\veritabanlikutuphaneprojem.pdb
